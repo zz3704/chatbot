@@ -1,7 +1,7 @@
 # chatbot
-2025 인하공전 스타트업 프로젝트
+#2025 인하공전 스타트업 프로젝트
 
-<span style="text-decoration: underline;"><ChatbotPat> 바쁜 사회인들을 위한 가상의 반려동물 챗봇 앱</span>
+#<ChatbotPat> 바쁜 사회인들을 위한 가상의 반려동물 챗봇 앱
 
 SKills
 Java, Android Studio, Mysql
